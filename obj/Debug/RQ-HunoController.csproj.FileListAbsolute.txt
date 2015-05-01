@@ -1,0 +1,10 @@
+C:\Users\utku\Documents\Visual Studio 2013\Projects\RQ-HunoController\RQ-HunoController\obj\Debug\RQ-HunoController.csprojResolveAssemblyReference.cache
+C:\Users\utku\Documents\Visual Studio 2013\Projects\RQ-HunoController\RQ-HunoController\bin\Debug\RQ-HunoController.dll
+C:\Users\utku\Documents\Visual Studio 2013\Projects\RQ-HunoController\RQ-HunoController\bin\Debug\RQ-HunoController.pdb
+C:\Users\utku\Documents\Visual Studio 2013\Projects\RQ-HunoController\RQ-HunoController\obj\Debug\RQ-HunoController.dll
+C:\Users\utku\Documents\Visual Studio 2013\Projects\RQ-HunoController\RQ-HunoController\obj\Debug\RQ-HunoController.pdb
+C:\Users\utku\Google Drive\c# projelerim ve kütüphanelerim\RQ-HunoController\bin\Debug\RQ-HunoController.dll
+C:\Users\utku\Google Drive\c# projelerim ve kütüphanelerim\RQ-HunoController\bin\Debug\RQ-HunoController.pdb
+C:\Users\utku\Google Drive\c# projelerim ve kütüphanelerim\RQ-HunoController\obj\Debug\RQ-HunoController.csprojResolveAssemblyReference.cache
+C:\Users\utku\Google Drive\c# projelerim ve kütüphanelerim\RQ-HunoController\obj\Debug\RQ-HunoController.dll
+C:\Users\utku\Google Drive\c# projelerim ve kütüphanelerim\RQ-HunoController\obj\Debug\RQ-HunoController.pdb
