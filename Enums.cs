@@ -8,23 +8,23 @@ namespace RQ_HunoController
 {
     public enum RemoteControlFunctions
     {
-        Up = 4,
-        Down = 10,
-        Right = 8,
-        Left = 6,
-        PivotLeft= 3,
-        PivotRight = 5,
-        GetUpFaceDown = 2,
-        GetUpSupine = 1,
-        One = 12,
-        Two = 13,
-        Three = 14,
-        Four = 15,
-        Five = 16,
-        Six = 17,
-        Seven = 18,
-        Eight = 19,
-        Nine = 20
+        Up = 0x04,
+        Down = 0x0A,
+        Right = 0x08,
+        Left = 0x06,
+        PivotLeft= 0x03,
+        PivotRight = 0x05,
+        GetUpFaceDown = 0x02,
+        GetUpSupine = 0x01,
+        One = 0x0C,
+        Two = 0x0D,
+        Three = 0x0E,
+        Four = 0x0F,
+        Five = 0x10,
+        Six = 0x11,
+        Seven = 0x12,
+        Eight = 0x13,
+        Nine = 0x14
 
     }
 }

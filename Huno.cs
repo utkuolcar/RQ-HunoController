@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO.Ports;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace RQ_HunoController
@@ -36,11 +37,14 @@ namespace RQ_HunoController
         }
         public void SendRemoteControlCommand(SerialPort port,RemoteControlFunctions rcf)
         {
-            byte[] move = new byte[16] { 0xFF, 0xFF, 0xAA, 0x55, 0xAA, 0x55, 0x37, 0xBA, 0x14, 0x01, 0x00, 0x00, 0x00, 0x01, 0x00, 0x00 }; ;
+            port.Write(new byte[6]{0xFF,0xE0,0xFB,0x01,0x00,0x1A}, 0, 6);
+           
+            byte[] move = new byte[16] { 0xFF, 0xFF, 0xAA, 0x55, 0xAA, 0x55, 0x37, 0xBA, 0x14, 0x01, 0x00, 0x00, 0x00, 0x01, 0x0A, 0x0A };
             move[14] = (byte)rcf;
             move[15] = (byte)rcf;
-
+            
             port.Write(move, 0, 16);
+          
         }
         public void SendOpeningProtocol(SerialPort port)
         {

@@ -8,3 +8,8 @@ C:\Users\utku\Google Drive\c# projelerim ve kütüphanelerim\RQ-HunoController\b
 C:\Users\utku\Google Drive\c# projelerim ve kütüphanelerim\RQ-HunoController\obj\Debug\RQ-HunoController.csprojResolveAssemblyReference.cache
 C:\Users\utku\Google Drive\c# projelerim ve kütüphanelerim\RQ-HunoController\obj\Debug\RQ-HunoController.dll
 C:\Users\utku\Google Drive\c# projelerim ve kütüphanelerim\RQ-HunoController\obj\Debug\RQ-HunoController.pdb
+C:\Users\utku\Documents\GitHub\RQ-HunoController\bin\Debug\RQ-HunoController.dll
+C:\Users\utku\Documents\GitHub\RQ-HunoController\bin\Debug\RQ-HunoController.pdb
+C:\Users\utku\Documents\GitHub\RQ-HunoController\obj\Debug\RQ-HunoController.csprojResolveAssemblyReference.cache
+C:\Users\utku\Documents\GitHub\RQ-HunoController\obj\Debug\RQ-HunoController.dll
+C:\Users\utku\Documents\GitHub\RQ-HunoController\obj\Debug\RQ-HunoController.pdb
